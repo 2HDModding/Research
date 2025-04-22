@@ -2,8 +2,11 @@
 
 * Documentation for Sonic 2 HD, SonicOrca, and OrcaTools (by me!!).
 
+* Sorry if it's not good, I kinda suck at explaining stuff.
+
 ## Table of Contents - Sonic 2 HD
 * [Modding](Documentation/S2HD/Modding.md)
+* [How the sprites work](Documentations/S2HD/Sprites.md)
 
 ## Table of Contents - SonicOrca
 * Nothing yet (might do how the .dat files work)

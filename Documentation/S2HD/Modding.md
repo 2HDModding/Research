@@ -4,4 +4,8 @@
 
 ## Folder Structure
 
-## Types of mods you can make
+## Types of mods you can make (from what I know)
+
+* [Reskins and Recolors](Modding/Reskins.md)
+
+* [Audio Replacements](Modding/AudioReplacements.md)
